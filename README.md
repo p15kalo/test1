@@ -27,7 +27,7 @@ https://p15kalo.github.io/D3js-uk-political-donations/
 
 * Μεγενθυντικός φακός
 
-![screenshot_2](https:// )
+![screenshot_2](https://i.imgur.com/xeivIpz.png)
 
 * Ενεργοποίηση ήχου για την ονομασία του δωρητή και το ποσό της δωρεάς 
 
@@ -38,8 +38,8 @@ https://p15kalo.github.io/D3js-uk-political-donations/
   * Δημιούργησα το αρχείο .csv με τα στοιχεία μου.
   * Πρόσθεσα τις εικόνες δωρητών στο φάκελο photos:
    
-       1.Annabel's (Berkeley Square) (706)  
+       1.Annabel's (Berkeley Square) (706)
        2.Eaga (772)
        3.Philip Mould (716)
-       4.Scythian (715)   
+       4.Scythian (715)
        5.Jon P Moynihan (313)

@@ -15,7 +15,7 @@ https://p15kalo.github.io/D3js-uk-political-donations/
 
 * Αλλαγή χρωμάτων στις μπάλες και στα 3 πεδία της ομαδοποίησης Split by party.
 
-![screenshot_1](https://imgur.com/6g7BDCK)
+![screenshot_1](https://i.imgur.com/6g7BDCK.png)
 
 * Ήχος κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές ομαδοποίησης των δεδομένων.
 
